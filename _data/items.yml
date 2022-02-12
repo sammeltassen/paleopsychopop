@@ -1,0 +1,520 @@
+- title: "Paleo Psycho Pop"
+  number: 1
+  year: 1996
+  editors: [Hilarius Hofstede]
+  city: "New York"
+  description: ""
+  pages: 3
+  filename: PPP01
+  chapters:
+    - title: "M.A.D."
+      author: "Hilarius Hofstede"
+      page: 1
+- title: "Paleo Psycho Pop"
+  number: 2
+  year: 1997
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 15
+  filename: PPP02
+  chapters:
+    - title: "Shaman Symptom Index"
+      author: "Hilarius Hofstede"
+      page: 2
+    - title: "A poem in muff-language, includes 87 languages"
+      author: "Willy Melnikov"
+      page: 3
+    - title: "Das Buchbinderhaus II. Instrumente. Texte."
+      author: "Michael Rutkowski"
+      page: 3
+    - title: ""
+      author: "Waldo Bien"
+      page: 6
+    - title: "Spol spiool mordraat"
+      author: "Jacobus Kloppenburg"
+      page: 6
+    - title: "Kruis van de Piramide"
+      author: "Ludmilla Chodenskaya"
+      page: 7
+    - title: "Spinal Reading"
+      author: "Hilarius Hofstede"
+      page: 8
+    - title: "Genesis 3:15"
+      author: "Ernst Ris"
+      page: 8
+    - title: "A'dam"
+      author: "Patrick Healy"
+      page: 9
+    - title: "De Markies van Water"
+      author: "Hilarius Hofstede"
+      page: 12
+    - title: "Hofstede over Hoekstra"
+      author: "Hilarius Hofstede"
+      page: 12
+    - title: ""
+      author: "Berend Hoekstra"
+      page: 13
+    - title: ""
+      author: "Piero Heliczer"
+      page: 13
+    - title: "Bikini Atoll"
+      author: "Hilarius Hofstede"
+      page: 14
+- title: "Paleo Psycho Pop"
+  number: 3
+  year: 1997
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 36
+  filename: PPP03
+  chapters:
+    - title: ""
+      author: "Adrian Dannatt"
+      page: 13
+    - title: ""
+      author: "Ludmilla Chodenskaya"
+      page: 7
+    - title: "apocathek now!"
+      author: "Hilarius Hofstede"
+      page: 7
+    - title: "Elaphe radiata"
+      author: "Ernst Ris"
+      page: 11
+    - title: ""
+      author: "Berend Hoekstra"
+      page: 12
+    - title: ""
+      author: Tafkap
+      page: 13
+    - title: ""
+      author: "Jacobus Kloppenburg"
+      page: 13
+    - title: ZOOO
+      author: "Hilarius Hofstede"
+      page: 15
+    - title: Trans
+      author: DAO
+      page: 18
+    - title: "zur aktuellen Arbeit im Wellenbadbecken"
+      author: "Michael Rutkowski"
+      page: 19
+    - title: ""
+      author: "Willem van der Sluis"
+      page: 21
+    - title: ""
+      author: "Willy Melnikov"
+      page: 21
+    - title: ""
+      author: "Berend Hoekstra"
+      page: 22
+    - title: Whispering
+      author: "Patrick Healy"
+      page: 22
+    - title: ""
+      author: "Jacobus Kloppenburg"
+      page: 24
+    - title: "Carl Einstein: Creation, the dialectics of death and revolt"
+      author: "Patrick Healy"
+      page: 26
+    - title: ""
+      author: "Jacqueline Peeters"
+      page: 30
+    - title: "Gilbert and George untitled"
+      author: "Hilarius Hofstede"
+      page: 31
+    - title: "Er was eens, niet zo lang geleden"
+      author: "Rob van Koningsbruggen"
+      page: 32
+    - title: ""
+      author: "Berend Hoekstra"
+      page: 33
+    - title: "Multiplication Table or Duel or The Tragedy of Princes Without Heads"
+      author: "Konstantin Kedrov"
+      page: 34
+- title: "Paleo Psycho Pop"
+  number: 4
+  year: 1997
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 24
+  filename: PPP04
+- title: "Paleo Psycho Pop"
+  image: "PPP05.jpg"
+  number: 5
+  year: 1997
+  editors: [Christian Denzler, Berend Hoekstra]
+  city: Brussels
+  description: ""
+  pages: 26
+  filename: PPP05
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 6
+  year: 1998
+  editors: [Hilarius Hofstede]
+  city: London
+  description: ""
+  pages: 34
+  filename: PPP06
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 7
+  year: 1999
+  editors: [Patrick Healy]
+  city: Dublin
+  description: ""
+  pages: 30
+  filename: PPP07
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 8
+  year: 1999
+  editors: [Joris Brouwers]
+  city: Amsterdam
+  description: ""
+  pages: 26
+  filename: PPP08
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 9
+  year: 1999
+  editors: [Patrick Healy]
+  city: Vlissingen
+  description: ""
+  pages: 27
+  filename: PPP09
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 10
+  year: 2000
+  editors: [Hilarius Hofstede]
+  city: Amsterdam
+  description: ""
+  pages: 27
+  filename: PPP10
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 11
+  year: 2001
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 28
+  filename: PPP11
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 12
+  year: 2001
+  editors: [Patrick Healy, Gijs van Koningsveld]
+  city: Amsterdam
+  description: ""
+  pages: 18
+  filename: PPP12
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 13
+  year: 2001
+  editors: [Patrick Healy, Gijs van Koningsveld]
+  city: Amsterdam
+  description: ""
+  pages: 13
+  filename: PPP13
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 14
+  year: 2001
+  editors: [Patrick Healy, Gijs van Koningsveld]
+  city: Amsterdam
+  description: ""
+  pages: 12
+  filename: PPP14
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 15
+  year: 2001
+  editors: [Hilarius Hofstede]
+  city: Amsterdam
+  description: ""
+  pages: 32
+  filename: PPP15
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 16
+  year: 2001
+  editors: [Hilarius Hofstede]
+  city: Amsterdam
+  description: ""
+  pages: 54
+  filename: PPP16
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 17
+  year: 2001
+  editors: [Patrick Healy, A. van Lith]
+  city: Amsterdam
+  description: ""
+  pages: 21
+  filename: PPP17
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 18
+  year: 2002
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 20
+  filename: PPP18
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 19
+  year: 2002
+  editors: [Hilarius Hofstede, Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 21
+  filename: PPP19
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 20
+  year: 2002
+  editors: [Patrick Healy]
+  city: Amsterdam
+  description: ""
+  pages: 35
+  filename: PPP20
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 21
+  year: 2002
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 60
+  filename: PPP21
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 22
+  year: 2002
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 36
+  filename: PPP22
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 23
+  year: 2002
+  editors: [Patrick Healy, Gijs van Koningsveld]
+  description: ""
+  pages: 60
+  filename: PPP23
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 24
+  year: 2002
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 50
+  filename: PPP24
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 25
+  year: 2003
+  editors: [Berend Hoekstra]
+  description: ""
+  pages: 36
+  filename: PPP25
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 26
+  year: 2003
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 40
+  filename: PPP26
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 28
+  year: 2004
+  editors: [Patrick Healy]
+  description: ""
+  pages: 46
+  filename: PPP28
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 29
+  year: 2004
+  editors: [Hilarius Hofstede, Patrick Healy, Henk van Engelen]
+  description: ""
+  pages: 92
+  filename: PPP29
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 30
+  year: 2012
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 72
+  filename: PPP30
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 31
+  year: 2012
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 96
+  filename: PPP31
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 32
+  year: 2012
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 52
+  filename: PPP32
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 33
+  year: 2012
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 28
+  filename: PPP33
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 34
+  year: 2012
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 14
+  filename: PPP34
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 35
+  year: 2013
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 70
+  filename: PPP35
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 36
+  year: 2014
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 56
+  filename: PPP36
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 37
+  year: 2015
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 44
+  filename: PPP37
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 38
+  year: 2015
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 86
+  filename: PPP38
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 39
+  year: 2015
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 69
+  filename: PPP39
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 40
+  year: 2015
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 37
+  filename: PPP40
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 41
+  year: 2015
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 62
+  filename: PPP41
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 42
+  year: 2016
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 92
+  filename: PPP42
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 43
+  year: 2016
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 144
+  filename: PPP43
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 44
+  year: 2019
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 62
+  filename: PPP44
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 45
+  year: 2019
+  editors: [Hilarius Hofstede, Kevin Power]
+  description: ""
+  pages: 65
+  filename: PPP45
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 46
+  year: 2019
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 71
+  filename: PPP46
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 47
+  year: 2019
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 45
+  filename: PPP47
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 48
+  year: 2019
+  editors: [Hilarius Hofstede]
+  description: ""
+  pages: 43
+  filename: PPP48
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 49
+  year: 2019
+  editors: [Patrick Healy]
+  description: ""
+  pages: 25
+  filename: PPP49
+  chapters: ""
+- title: "Paleo Psycho Pop"
+  number: 50
+  year: 2019
+  editors: [Hilarius Hofstede, Patrick Healy]
+  description: ""
+  pages: 71
+  filename: PPP50
+  chapters: ""
