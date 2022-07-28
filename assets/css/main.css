@@ -1,81 +1,48 @@
 ---
 ---
-ul.list { 
-	list-style-type: none; 
-	padding: 0;
-	}
-
-.title {
-}
-
-.left {
+.item {
+	height: 300px;
+	width: 220px;
 	float: left;
+	margin: 1rem;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	cursor: pointer;
 }
 
-.thumb {
-	padding-left: 1em;
+a:hover {
+	text-decoration: none;
+}
+
+a.pdf {
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+
+a.pdf:hover {
+	background-color: black;
+	-moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.metadata {
+	padding: 0.5rem;
+	margin: 0;
 }
 
 .right {
 	float: right;
 }
 
-.description {
-	padding-left: 8rem;
-}
-
-.booktitle {
-	font-style: italic;
-}
-
-.title {
-	font-weight: bold;
-}
-
-.year, .kind {
-	font-size: 0.9em;
-}
-
-.panel-right {
-
-}
-
 .clear {
 	clear:both;
-}
-
-.panel {
-	padding-left: 8rem;
-	max-height: 0;
-	overflow: hidden;
-	transition: max-height 0.2s ease-out;
-}
-
-.edition {
-	clear:both;
-	padding-top: 1rem;
-}
-
-.accordion {
-	cursor: pointer;
-}
-		
-.portrait {
-	float: right;
-	vertical-align: top;
-}
-
-.portrait>img {
 }
 
 .mfp-iframe-holder .mfp-content {
 	 max-width: 1000px;
 	 height: 100%;
-}
-
-@media screen and (max-width: 800px) {
-  .portrait {
-	float: none;
-	text-align: left;
-  }
 }
