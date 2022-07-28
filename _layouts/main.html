@@ -1,28 +1,64 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta charset="utf-8">
-		<title>{{ site.title }}</title>
-		<meta name="title" content="{{ site.title }}">
-		<meta name="author" content="{{ site.author }}">
-		<meta name="description" content="{{ site.description }}">
-		<meta name="keywords" content="{{ site.keywords }}">
-		<meta property="og:image" content="{{ '/assets/img/main/patrick.jpg' | absolute_url }}">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-		<link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
-  </head>
-  <body>
-  	<article>
-  		<section>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>{{ site.title }}</title>
+	<meta name="title" content="{{ site.title }}">
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ site.description }}">
+	<meta name="keywords" content="{{ site.keywords }}">
+	<meta property="og:image" content="{{ '/assets/img/PPPs.jpg' | absolute_url }}">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+	<link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
+</head>
+
+<body>
+	<article>
+		<section>
 			{{ content }}
 		</section>
-  </body>
+		<section>
+			<div class="items">
+				{% for item in site.data.items %}
+				<div class="item" style="background-image:url('/assets/img/PPP/{{ item.filename }}.jpg');">
+					<a class="pdf" href="/assets/js/pdfjs/web/viewer.html?file={{ site.gcs_prefix | url_encode }}{{ item.filename | url_encode }}.pdf">
+						<p class="metadata">
+						<span class="number">No. {{ item.number }}</span>
+						<span class="year right">{{ item.year }}</span>
+						</p>
+						<p class="metadata"
+						{% if item.editors.size == 1 %}
+						<span class="editors">Editor: {{ item.editors }}</span><br>
+						{% elsif item.editors.size > 1 %}
+						<span class="editors">Editors: {{ item.editors | join: ', ' }}</span><br>
+						{% endif %}
+						{% if item.city %}
+						<span class="city">{{ item.city }}</span><br>
+						{% endif %}
+						{% if item.pages %}
+						</p>
+						<p class="metadata"
+						<span class="pages">{{ item.pages | join: ', ' }} pages<span><br>
+						{% endif %}
+						</p>
+					</a>
+				</div>
+				{% endfor %}
+			</div>
+		</section>
+	</article>
+	<script type="application/javascript">
+		$(document).ready(function () {
+			$('.pdf').magnificPopup({
+				type: 'iframe'
+			});
+		});
+	</script>
+</body>
+
 </html>
-
-
