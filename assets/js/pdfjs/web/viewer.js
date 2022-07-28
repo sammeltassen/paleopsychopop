@@ -1916,7 +1916,7 @@ const PDFViewerApplication = {
 exports.PDFViewerApplication = PDFViewerApplication;
 let validateFileURL;
 {
-  const HOSTED_VIEWER_ORIGINS = ["https://paleopsychopop.org", "http://127.0.0.1:4000"];
+  const HOSTED_VIEWER_ORIGINS = ["https://www.paleopsychopop.org"];
 
   validateFileURL = function (file) {
     if (file === undefined) {
